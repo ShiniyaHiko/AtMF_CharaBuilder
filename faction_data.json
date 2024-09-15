@@ -37,7 +37,14 @@
                         "Göttliche Perfektion*"
                     ],
                     "values": [6]
-                }
+                },
+                "cliffhanger":[
+                    "Ich formiere den Nanoschwarm neu",
+                    "Ich reinige die Erde oder eine Wasserstelle mit meinem Nanoschwarm",
+                    "Ich sage meine Grundsätze auf",
+                    "Ich ziehe mich alleine zurück",
+                    "Ich erzähle einen Witz"
+                ]
             },
             "Borstenmütter": {
                 "base_styles":{
@@ -166,7 +173,16 @@
                             "Improvisationstalent*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ich wühle nach Käfern und Pilzen",
+                        "Ich geh mal austreten",
+                        "Ein gebt an die Allmutter sprechen",
+                        "Ich fresse etwas",
+                        "Vor Frust grunze ich laut",
+                        "Ich streue heilige Kräuter in der Gegend umher",
+                        "Ich suche nach Kräutern, Pilzen oder Essbarem"
+                    ]
             },
             "Chronomaster": {
                 "base_styles":{
@@ -244,7 +260,18 @@
                             "Aufhebung der Schwerkraft*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Die drei Regeln der Zeitreisen im Kopf aufsagen",
+                        "Die Gegend nach Zeitparadoxa abchecken",
+                        "Die Uhrzeit überprüfen",
+                        "Notzigen machen",
+                        "Eine Theorie aufstellen",
+                        "Mit einem Partner die Optionen durchgehen",
+                        "Meine Ausrüstung prüfen",
+                        "Überlgen, ob es den Aufawand wirklich wert ist",
+                        "In Fachliteratur nachschlagen"
+                    ]
             },
             "Cybersamurai": {
                 "base_styles":{
@@ -323,7 +350,18 @@
                             "Übermenschlich schnell*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ich führe eine Schwertkampfübung durch",
+                        "Ich spiele eine meiner Lieblings-App",
+                        "Ich nehme einen chemischen induzierten Power Nap",
+                        "Ich führe einen Systemcheck durch",
+                        "Rücksprache mit der KI halten",
+                        "Re-Booten aller Systeme",
+                        "Ich meditiere",
+                        "Ich brauche ein paar Minuten, um mich zu fokussieren",
+                        "Ich checke alle verfügbaren Daten"
+                    ]
             },
             "Corporat": {
                 "base_styles": {
@@ -397,7 +435,17 @@
                             "Extrem cool*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Die drei wichtigsten Konsumentenregeln laut aufsagen",
+                        "Meinen Tumorstatus checken",
+                        "Einen miesen Witz erzählen",
+                        "Etwas Essbares aus meinen Taschen futtern",
+                        "Vor Frust laut aufquieken",
+                        "Etwas Wertvolles oder Seltenes einstecken",
+                        "Etwas anknabbern",
+                        "Mit einem Fidgetspinner meinen Frust lösen"
+                    ]
             },
             "Herren der Verlorenen See": {
                 "base_styles": {
@@ -476,7 +524,14 @@
                             "Langsam & sicher*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ein Gebet zu den Herren der Meere sprechen",
+                        "Laut mit dem Schwanz auf den Boden schlagen",
+                        "Austreten gehen",
+                        "Einen lauten Walgesang anstimmen",
+                        "Innehalten, um zu hören, ob man das Meer hört"
+                    ]
             },
             "Krieger von Valhalla": {
                 "base_styles": {
@@ -576,7 +631,16 @@
                             "Heldenhaft*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ich lese in meiner Lieblingsliedersammlung",
+                        "Ich nehme eine Pille",
+                        "Ich gehe unsere Agenda durch",
+                        "Ich singe oder zitiere aus einem Heldenepos",
+                        "Ich versportte die Anderen",
+                        "Ich ziehe mich stumm zurück",
+                        "Ich brülle aggressiv"
+                    ]
             },
             "Kinder des Löwen": {
                 "base_styles":{
@@ -683,7 +747,16 @@
                             "Ohne zu zögern & effektiv*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Mein Tier streicheln",
+                        "Ein Gebet an die alten Göttheiten schicken",
+                        "Mein Tier aufhetzen",
+                        "Ich esse etwas",
+                        "Meine Ausrüstung überprüfen",
+                        "Zurückziehen und zur Ruhe kommen",
+                        "Meine Waffen zücken und mit Gewalt drohen"
+                    ]
             },
             "Mardukorden": {
                 "base_styles": {
@@ -778,7 +851,15 @@
                             "Schnell & effizient*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ein Gebet sprechen",
+                        "Mein Schwert schleifen",
+                        "Meine Ausrüstung überprüfen",
+                        "Mich auf die Gebote des Ritterstandes besinnen",
+                        "Zurückziehen und zur Ruhe kommen",
+                        "Meine Waffe zücken und mit Gewalt drohen"
+                    ]
             },
             "Moon Circus": {
                 "base_styles": {
@@ -861,7 +942,15 @@
                             "Schneller als das Auge*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "'Ne Pille einwerfen",
+                        "Irgendwas grundlos kaputthauen",
+                        "Eine rauchen",
+                        "Etwas essen",
+                        "Einen (oder mehrere) schlechte Witze erzählen",
+                        "'Ne Runde mit meinem Fahrzeug drehen"
+                    ]
             },
             "Nomads": {
                 "base_styles": {
@@ -961,7 +1050,18 @@
                             "Subtiles Vorgehen*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ich lade nach",
+                        "Ich trete mal aus",
+                        "Meine Ausrüstung überprüfen",
+                        "Ich nehme einen Schluck aus meinem Flachmann",
+                        "Ich reiße einen Witz",
+                        "Ich brauche fünf Minuten um mich abzuregen",
+                        "Ich halte Rücksprache mit meinem Team",
+                        "Ich erzähle eine alte Geschichte",
+                        "Ich liebkose meine Waffe"
+                    ]
             },
             "Pan Doa": {
                 "base_styles": {
@@ -1044,12 +1144,21 @@
                             "Würdevoll*",
                             "Professionelle Vorgehensweise*",
                             "Extrem riskant aber beeindruckend*",
-                            "Ehrfurchtsvolel Genauigkeit*",
+                            "Ehrfurchtsvolle Genauigkeit*",
                             "Ehrwürdig*",
                             "Unbemerkte Manöver*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Meditieren",
+                        "Meinen magischen Gegenstand befühlen",
+                        "Mich zurückziehen",
+                        "Agressiv und ungeduldig werden",
+                        "Eine Runde spazieren gehen",
+                        "Meinen Willen fokusieren",
+                        "Meine Selbstbeherrschung zurück gewinnen"
+                    ]
             },
             "Schwesternschaft der 7": {
                 "base_styles": {
@@ -1136,7 +1245,15 @@
                             "Überwältigend*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ich lade nach",
+                        "Meine Ausrüstung überprüfen",
+                        "Ich reiße einen Witz",
+                        "Ich brauche fünf Minuten, um mich abzuregen",
+                        "Ich halte Rücksprache mit meinem Team",
+                        "Ich erzähle meine Lieblingsgeschichte"
+                    ]
             },
             "Der Schwarm": {
                 "base_styles": {
@@ -1235,7 +1352,15 @@
                             "Einer Intuition folgend*"
                         ],
                         "values": [6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Meine Augen und Fühler putzen",
+                        "Die Duftmarken der Gegend ablaufen",
+                        "Wütend mit den Mundwerkzeugen zucken",
+                        "Eine Duftmarke setzen",
+                        "Etwas Fressbares finden und verspeisen",
+                        "Überprüfen, ob meine Freunde in Sicherheit sind"
+                    ]
             },
             "Überlebender": {
                 "base_styles": {
@@ -1346,7 +1471,17 @@
                             "Das passt wie Arsch auf Eimer*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Auf Abstand gehen",
+                        "Meine Ausrüstung checken",
+                        "Meinen wichtigesten Besitz streicheln",
+                        "Etwas essen",
+                        "Zurückziehen und zur Ruhe kommen",
+                        "Meine Waffe zücken und mit Gewalt drohen",
+                        "Austreten gehen",
+                        "Einen Witz erzählen"
+                    ]
             },
             "Union": {
                 "base_styles": {
@@ -1449,7 +1584,15 @@
                             "Unbemerkt*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ich prüfe die Umgebung auf Strahlung",
+                        "Ich checke den Sitz meiner Uniform",
+                        "Ich schaue mich um und such enach weiteren Feinden",
+                        "Ich mache mir Notizen",
+                        "Ich rauche meine wirklich letzte Zigarette",
+                        "Ich fluche laut"
+                    ]
             },
             "Wanderer": {
                 "base_styles": {
@@ -1516,6 +1659,15 @@
                             "Die Magie springt mir in letzter Sekunde bei*"
                         ],
                         "values": [4, 6]
-                    }
+                    },
+                    "cliffhanger":[
+                        "Ich bedanke mich bei der Natur",
+                        "Ich trete mal aus",
+                        "Meine Ausrüstung überprüfen",
+                        "Ich nehme einen Schluck aus meiner Wasserflasche",
+                        "Ich ruhe mich kurz aus",
+                        "Ich rufe den Wind um Beistand an",
+                        "Ich erzähle eine kurze Geschichte"
+                    ]
             }
         }
